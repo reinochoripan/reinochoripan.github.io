@@ -1,0 +1,188 @@
+*{
+	background: white;
+}
+
+
+body {
+	padding-top: 100px;
+}
+
+
+.barra{
+	background: orange;
+	position: absolute;
+	top: 24px;
+	width: 99.1vw;
+	height: 5px;
+}
+
+
+
+.barra2{
+	background: orange;
+	position: absolute;
+	top: 85px;
+	width: 99.1vw;
+	height: 5px;
+}
+
+
+h9{
+	background: white;
+	font-size: 30px;
+	right: 1700px;
+	position: relative;
+	top: -41px;
+	left: 80px;
+}
+
+h10{
+	background: white;
+	font-size: 30px;
+	right: 1700px;
+	position: relative;
+	top: -41px;
+	left: 300px;
+}
+
+h11{
+	background: white;
+	font-size: 30px;
+	right: 1700px;
+	position: relative;
+	top: -41px;
+	left: 1250px;
+}
+
+.contenedorimagen__1 {
+	position: absolute;
+	height: 130px;
+	width: 130px ;
+	left: 880px;
+	top: 10px;
+	bottom: 200px;
+	border-radius: 20px;
+}
+
+.contenedortexto__h1 {
+	font-size: 55px;
+	background: orange;
+	position: relative;
+}
+
+.contenedortexto__p {
+	font-size: 25px;
+	position: relative;
+}
+
+
+.contenedortexto__h2 {
+	font-size: 48px;
+	background: orange;
+	position: relative;
+	top: 50px;
+}
+
+
+.contenedortexto__p2 {
+	font-size: 25px; 
+	position: relative;
+	top: 80px;
+}
+
+.contenedorimagen__2 {
+	position: absolute;
+	height: 500px;
+	width: 550px ;
+	left: 685px;
+	top: 520px;
+	border-radius: 20px;
+}
+
+
+.contenedortexto__h3 {
+	font-size: 48px;
+	background: orange;
+	margin-bottom: 0;
+	position: relative;
+	top: 660px;
+}
+
+
+.contenedortexto__p3 {
+	font-size: 25px; 
+	position: relative;
+	top: 690px;
+}
+
+
+.contenedorimagen__3 {
+	position: absolute;
+	height: 500px;
+	width: 550px ;
+	left: 685px;
+	top: 1250px;
+	border-radius: 20px;
+}
+
+
+.contenedortexto__h4 {
+	font-size: 48px;
+	background: orange;
+	margin-bottom: 0;
+	position: relative;
+	top: 1275px;
+}
+
+
+.contenedortexto__p4 {
+	font-size: 25px; 
+	position: relative;
+	top: 1300px;
+}
+
+
+.contenedorimagen__4 {
+	position: absolute;
+	height: 500px;
+	width: 550px ;
+	left: 685px;
+	top: 1945px;
+	border-radius: 20px;
+}
+
+
+.contenedortexto__h5 {
+	font-size: 48px;
+	background: orange;
+	margin-bottom: 0;
+	position: relative;
+	top: 1890px;
+}
+
+
+
+.contenedortexto__p5 {
+	font-size: 25px; 
+	position: relative;
+	top: 1915px;
+}
+
+
+.contenedorimagen__5 {
+	position: absolute;
+	height: 500px;
+	width: 550px ;
+	left: 685px;
+	top: 2645px;
+	border-radius: 20px;
+}
+
+.contact_form__h1 {
+	background: orange;
+	position: sticky;
+	top: 0px;
+	margin-top: 100px;
+}
+
+
