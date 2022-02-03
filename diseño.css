@@ -1,0 +1,172 @@
+*{
+	font-family: 'Georginia', cursive;
+	font-weight: 100;
+	font-size: 20px;
+	background: #F8F7F7;
+}
+
+
+.nav {
+	text-align: center;
+}
+
+.nav__li {
+	display: inline-block;
+	padding: 12px;
+}
+
+
+.nav i {
+	margin: 10px;
+}
+
+.nav__li a {
+	color: black;
+	text-decoration: none;
+}
+
+.container-presentación {
+	margin-left: 200px;
+}
+
+.container-presentación__h1 {
+	padding-top: 100px;
+	display: inline-block;
+}
+
+.container-presentación__p {
+	display: block;
+}
+
+.container-presentación__img {
+	height: 450px;
+	position: relative;
+	left: 800px;
+	top: -270px;
+	border-radius: 70px;
+}
+
+.container-funciones {
+	margin-left: 200px;
+}
+
+
+.container-funciones__h1 {
+	display: block;
+	margin-top: 60px;
+	margin-left: 28%;
+}
+
+
+.container-funciones__galeria {
+	position: relative;
+	top: 100px;
+	background: white;
+	display: inline-block;
+	border-radius: 20px;
+	padding: 10px;
+	margin-bottom: 40px;
+	width: 540px;
+}
+
+
+.container-funciones-galeria__h1 {
+	background: none;
+	text-align: center;
+}
+
+.container-funciones-galeria__img {
+	height: 300px;
+	margin-left: 63px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+
+
+.container-funciones__galeria2 {
+	position: relative;
+	top: 100px;
+	background: white;
+	display: inline-block;
+	border-radius: 20px;
+	padding: 10px;
+	margin-right: 70px;
+	margin-left: 70px;
+	margin-bottom: 40px;
+	width: 540px;
+	}
+
+
+.container-funciones-galeria2__h1 {
+	background: none;
+	text-align: center;
+}
+
+.container-funciones-galeria2__img {
+	height: 300px;
+	margin-left: 63px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+
+.container-funciones__galeria3 {
+	position: relative;
+	top: 100px;
+	background: white;
+	display: inline-block;
+	border-radius: 20px;
+	padding: 10px;
+	width: 540px;
+	}
+
+
+.container-funciones-galeria3__h1 {
+	background: none;
+	text-align: center;
+}
+
+.container-funciones-galeria3__img {
+	height: 300px;
+	margin-left: 63px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+
+.container-funciones__galeria4 {
+	position: relative;
+	top: 100px;
+	background: white;
+	display: inline-block;
+	border-radius: 20px;
+	padding: 10px;
+	margin-right: 70px;
+	margin-left: 70px;
+	width: 540px;
+	}
+
+
+.container-funciones-galeria4__h1 {
+	background: none;
+	text-align: center;
+}
+
+.container-funciones-galeria4__img {
+	height: 300px;
+	margin-left: 63px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+
+@media only screen and (max-width: 1370px) {
+	.container-presentación__img {
+		height: 450px;
+		position: relative;
+		top: 40px;
+		left: 40px;
+		border-radius: 70px;
+	}
+}
